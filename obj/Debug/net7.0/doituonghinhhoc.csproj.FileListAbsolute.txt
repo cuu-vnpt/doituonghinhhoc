@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/doituonghinhhoc/bin/Debug/net7.0/doituonghinhhoc
+/Users/macos/Desktop/Operator/doituonghinhhoc/bin/Debug/net7.0/doituonghinhhoc.deps.json
+/Users/macos/Desktop/Operator/doituonghinhhoc/bin/Debug/net7.0/doituonghinhhoc.runtimeconfig.json
+/Users/macos/Desktop/Operator/doituonghinhhoc/bin/Debug/net7.0/doituonghinhhoc.dll
+/Users/macos/Desktop/Operator/doituonghinhhoc/bin/Debug/net7.0/doituonghinhhoc.pdb
+/Users/macos/Desktop/Operator/doituonghinhhoc/obj/Debug/net7.0/doituonghinhhoc.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/doituonghinhhoc/obj/Debug/net7.0/doituonghinhhoc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/doituonghinhhoc/obj/Debug/net7.0/doituonghinhhoc.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/doituonghinhhoc/obj/Debug/net7.0/doituonghinhhoc.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/doituonghinhhoc/obj/Debug/net7.0/doituonghinhhoc.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/doituonghinhhoc/obj/Debug/net7.0/doituonghinhhoc.dll
+/Users/macos/Desktop/Operator/doituonghinhhoc/obj/Debug/net7.0/refint/doituonghinhhoc.dll
+/Users/macos/Desktop/Operator/doituonghinhhoc/obj/Debug/net7.0/doituonghinhhoc.pdb
+/Users/macos/Desktop/Operator/doituonghinhhoc/obj/Debug/net7.0/doituonghinhhoc.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/doituonghinhhoc/obj/Debug/net7.0/ref/doituonghinhhoc.dll
